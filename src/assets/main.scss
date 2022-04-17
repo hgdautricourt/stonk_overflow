@@ -1,0 +1,21 @@
+// Customizations Here (Optional)
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+// Set your brand colors
+$primary: #F2AD00;
+$dark: #0A0A0A;
+$text: #242424;
+$white:#FFFFFF;
+$grey:#242424;
+$white-bis: #F0F0F0;
+
+
+// Update Bulma's global variables
+$family-sans-serif: "Nunito", sans-serif;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Bulma Import
+@import '~bulma';
